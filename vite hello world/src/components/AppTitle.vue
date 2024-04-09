@@ -1,5 +1,5 @@
 <script>
-export 
+ 
 </script>
 
 <template>
