@@ -11,5 +11,7 @@
   text-align: center;
   color: royalblue;
   font-size: 42px;
+  padding: 20px 0;
+  background-color: rgb(67, 39, 39);
 }
 </style>
